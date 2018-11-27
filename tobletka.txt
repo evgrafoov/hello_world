@@ -1,1 +1,0 @@
-https://travis-ci.com/evgrafoov/hello_world.svg?branch=master
