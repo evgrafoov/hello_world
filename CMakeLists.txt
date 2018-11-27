@@ -1,1 +1,1 @@
-add_executable (test main.c)
+add_executable(test main.c)
