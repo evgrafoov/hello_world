@@ -1,4 +1,4 @@
 language:c
 os:osx
 script:
--cmake ./
+ - cmake ./
